@@ -25,7 +25,7 @@ Currently, two official plugins are available:
 ## Build the project and add the third-party lib
 Configuration and Installation
 ```
-npm create vite
+npm create vite (npm init vite@latest my-vue-app)
 cd 'your project name dir'
 npm install
 npm run dev
